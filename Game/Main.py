@@ -2,7 +2,7 @@ import pygame as pg
 import os
 
 SCREENRECT = pg.Rect(0, 0, 640, 480)
-main_dir = "/data/DOCUMENT/prog/school/Projet/Game/"
+main_dir = "/data/DOCUMENT/prog/school/NSI-Project/Game/"
 
 def load_image(file):
     """ loads an image, prepares it for play
